@@ -4,5 +4,5 @@ h1 {color: Blue}
 
 body {background-color: purple}
 
-.navbar li {display: block;
+.navbar {display: block;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b5/Metal_Gear_Solid_logo.png");}
