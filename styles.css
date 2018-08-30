@@ -5,7 +5,7 @@ h1 {color: Blue}
 body {background-color: purple}
 
 .navbar li {
-  display:block;
+  display: inline;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b5/Metal_Gear_Solid_logo.png")}
 
 .login {
@@ -17,4 +17,8 @@ body {background-color: purple}
  padding: 8px 18px;
  border: 1px solid #204156
  position: relative;
+}
+
+login a:active {
+  top: 5px;
 }
