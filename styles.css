@@ -4,6 +4,8 @@ h1 {color: Blue}
 
 body {background-color: purple}
 
-.navbar:active {
+.navbar li {
   display: inline;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b5/Metal_Gear_Solid_logo.png")}
+
+.login {float: right;}
