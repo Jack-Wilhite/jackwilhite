@@ -10,5 +10,11 @@ body {background-color: purple}
 
 .login {
   float: right;
-  cursor: pointer;
+}
+.login a {
+ cursor: pointer;
+ margin-right: 30px;
+ padding: 8px 18px;
+ border: 1px solid #204156
+ position: relative;
 }
