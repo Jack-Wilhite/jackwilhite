@@ -8,4 +8,5 @@ body {background-color: purple}
   display: block;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b5/Metal_Gear_Solid_logo.png")}
 
-.login :active {float: right;}
+.login {float: right;}
+.login:active
